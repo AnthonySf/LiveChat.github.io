@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LiveChat/static/css/main.c0cdeac3.chunk.css",
-    "main.js": "/LiveChat/static/js/main.d28fcc30.chunk.js",
-    "main.js.map": "/LiveChat/static/js/main.d28fcc30.chunk.js.map",
-    "runtime~main.js": "/LiveChat/static/js/runtime~main.dc14cc9b.js",
-    "runtime~main.js.map": "/LiveChat/static/js/runtime~main.dc14cc9b.js.map",
-    "static/js/2.02c7bd87.chunk.js": "/LiveChat/static/js/2.02c7bd87.chunk.js",
-    "static/js/2.02c7bd87.chunk.js.map": "/LiveChat/static/js/2.02c7bd87.chunk.js.map",
-    "index.html": "/LiveChat/index.html",
-    "precache-manifest.9640146644583a33869fab364dedd73d.js": "/LiveChat/precache-manifest.9640146644583a33869fab364dedd73d.js",
-    "service-worker.js": "/LiveChat/service-worker.js",
-    "static/css/main.c0cdeac3.chunk.css.map": "/LiveChat/static/css/main.c0cdeac3.chunk.css.map"
+    "main.css": "/ChatApp/static/css/main.3fb98e01.chunk.css",
+    "main.js": "/ChatApp/static/js/main.90ddfdc8.chunk.js",
+    "main.js.map": "/ChatApp/static/js/main.90ddfdc8.chunk.js.map",
+    "runtime~main.js": "/ChatApp/static/js/runtime~main.7e460a6d.js",
+    "runtime~main.js.map": "/ChatApp/static/js/runtime~main.7e460a6d.js.map",
+    "static/js/2.d734336d.chunk.js": "/ChatApp/static/js/2.d734336d.chunk.js",
+    "static/js/2.d734336d.chunk.js.map": "/ChatApp/static/js/2.d734336d.chunk.js.map",
+    "index.html": "/ChatApp/index.html",
+    "precache-manifest.5658d6aeb646f71cb5a9edaea38b1016.js": "/ChatApp/precache-manifest.5658d6aeb646f71cb5a9edaea38b1016.js",
+    "service-worker.js": "/ChatApp/service-worker.js",
+    "static/css/main.3fb98e01.chunk.css.map": "/ChatApp/static/css/main.3fb98e01.chunk.css.map"
   }
 }
